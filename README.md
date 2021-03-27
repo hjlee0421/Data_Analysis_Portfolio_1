@@ -1,6 +1,6 @@
-# Data Analysis Portforlio 1
+# [Data Analysis Portforlio 1](https://github.com/hjlee0421/Data_Analysis_Portfolio_1/blob/main/Data_Analysis.ipynb)
 
-- Data :
+- Data
 - Visualization
 - Statistical Analysis
 - Conclusion
