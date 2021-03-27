@@ -7,6 +7,6 @@ Presented in the form of iPython Notebooks.
 
 - ### Data Analysis and Visualisation
 
-  - [App User Data Analysis](https://github.com/hjlee0421/Data_Analysis_Portfolio_1/blob/main/Data_Analysis.ipynb): Analysis for finding statistical difference between A/B groups.
+  - [App User Data Analysis](https://github.com/hjlee0421/Data_Analysis_Portfolio/blob/main/App%20User%20Data%20Analysis/App_User_Data_Analysis.ipynb): Analysis for finding statistical difference between A/B groups.
 
   _Tools: Pandas, Seaborn and ?_
